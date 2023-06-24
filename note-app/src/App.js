@@ -62,7 +62,7 @@ function App() {
       </div>
       </NoteState>
       <footer>
-          <img src="https://res.cloudinary.com/djkn56f5y/image/upload/v1686332547/taking-notes-1_nhk5h0.jpg" alt="Footer"/>
+          <img src="https://res.cloudinary.com/priyojit/image/upload/v1686332547/taking-notes-1_nhk5h0.jpg" alt="Footer"/>
         </footer>
     </>
   );

@@ -15,7 +15,7 @@ const About = (props) => {
     <h1 className='head' style={{ color: props.mode === 'light' ? 'grey' : 'white' }}>ABOUT US</h1>
        {/* <div style={{marginTop:50}}> */}
         <div className='images'>
-       <img className="image" src="https://res.cloudinary.com/djkn56f5y/image/upload/v1686317706/note-removebg-preview_prgber.png"  alt="/About" />
+       <img className="image" src=" https://res.cloudinary.com/priyojit/image/upload/v1686298796/note_tlnha9.jpg"  alt="/About" />
        </div>
        {/* </div> */}
         <div style={{ color: props.mode === 'light' ? 'grey' : 'white' }}>
